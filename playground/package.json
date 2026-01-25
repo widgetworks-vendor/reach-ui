@@ -44,7 +44,7 @@
 		"@storybook/addons": "^6.5.9",
 		"@storybook/builder-webpack5": "^6.5.9",
 		"@storybook/manager-webpack5": "^6.5.9",
-		"@storybook/react": "^6.5.9",
+		"@storybook/react": "^7.0.0",
 		"@types/react": "^17.0.47",
 		"@types/react-dom": "^17.0.17",
 		"@types/react-is": "^17.0.3",
